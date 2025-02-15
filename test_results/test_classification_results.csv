@@ -1,0 +1,5 @@
+Type,model,Accuracy,Precision,Recall,True positive,Sensitivity,Specificity,F1 Score
+Classification,MR1_1,1.0,1.0,1.0,21,1.0,1.0,1.0
+Classification,MR1_2,0.9,0.5,0.5555555555555556,18,0.5,0.75,0.5263157894736842
+Classification,MR1_3,0.9523809523809523,0.5,0.525,20,0.5,0.75,0.5121951219512195
+Classification,MR1_4,1.0,1.0,1.0,24,1.0,1.0,1.0
